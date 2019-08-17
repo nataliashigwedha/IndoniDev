@@ -1,0 +1,11 @@
+.heading{
+    background-color: rgb(228, 167, 187); 
+    text-align:center;
+    color: rgb(0, 0, 0);
+    font-size: 100px;font-style: oblique}
+.mystyle{
+    font-weight: bolder; font-size: 120px;
+    padding: 10px;
+}
+.myimagestyle{background-size: cover; 
+    background-image: url("index3.jpg");}
